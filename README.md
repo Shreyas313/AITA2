@@ -57,19 +57,7 @@ To classify a URL, use the `predict.py` script. You can input a URL directly in 
 python src/predict.py
 ```
 
-### Exploratory Data Analysis
 
-For exploratory data analysis, open the Jupyter notebook:
-```
-jupyter notebook notebooks/exploration.ipynb
-```
-
-## Testing
-
-To run the unit tests, execute:
-```
-python -m unittest discover -s tests
-```
 
 ## License
 
