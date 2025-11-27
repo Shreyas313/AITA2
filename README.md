@@ -1,6 +1,6 @@
 # Malicious URL Classifier
 
-This project implements a machine learning model to classify URLs as either malicious or benign. The model is trained using a dataset provided in the `url.mat` file and additional data from the SVM-light files located in the `url_svmlight` folder.
+This project implements a machine learning model to classify URLs as either malicious or benign. The model is trained using a dataset provided in the `url.mat` file and additional data from the SVM-light files located in the `url_svmlight` folder [https://www.sysnet.ucsd.edu/projects/url/].
 
 ## Project Structure
 
