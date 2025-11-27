@@ -6,10 +6,7 @@ This project implements a machine learning model to classify URLs as either mali
 
 ```
 malicious-url-classifier
-├── data
-│   ├── url.mat
-│   └── url_svmlight
-│       └── (svm-light files .svm / .txt / .dat)
+
 ├── src
 │   ├── train_model.py        # Script to train the SVM model
 │   ├── predict.py            # Script to classify input URLs
@@ -17,10 +14,6 @@ malicious-url-classifier
 │   └── utils.py              # Utility functions for data processing and evaluation
 ├── models
 │   └── model.pkl             # Trained SVM model
-├── notebooks
-│   └── exploration.ipynb      # Jupyter notebook for exploratory data analysis
-├── tests
-│   └── test_pipeline.py       # Unit tests for the project
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
 ```
